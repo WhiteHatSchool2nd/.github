@@ -79,12 +79,12 @@ https://github.com/icsdataset/hai/blob/master/hai_dataset_technical_details.pdf
 
 #### F1스코어
 
-**F1 Score: 0.971041948579161
-Precision: 0.9437138348237769
-Recall: 1.0
-Accuracy: 0.9946339017051153
-Confusion Matrix:
-18039   107
+**F1 Score: 0.971041948579161<br>
+Precision: 0.9437138348237769<br>
+Recall: 1.0<br>
+Accuracy: 0.9946339017051153<br>
+Confusion Matrix:<br>
+18039   107<br>
  0          1794**
 
 ## MTAD-GAT\
