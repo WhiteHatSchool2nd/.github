@@ -20,7 +20,7 @@
 ## 팀원
 
 - **김성광**
-- **양호찬**\
+- **양호찬**
 - **문서진**
 - **한윤서**
 - **정지현**
@@ -58,7 +58,7 @@ https://github.com/icsdataset/hai/blob/master/hai_dataset_technical_details.pdf
 - 1회차 : 2024. 8. 7(수). 23시 59분까지  
 - 2회차 : 2024. 8. 14(수). 23시 59분까지  
 - 3회차 : 2024. 8. 21(수). 23시 59분까지  
-- 4회차 : 2024. 8. 28(수). 23시 59분까지  \
+- 4회차 : 2024. 8. 28(수). 23시 59분까지  
 - 5회차 : 2024. 9 4(수). 23시 59분까지  
 - 6회차 : 2024. 9. 11(수). 23시 59분까지
 - 제출링크 : [https://forms.gle/vfej4Qm2U44nuR5t7](https://forms.gle/vfej4Qm2U44nuR5t7)
@@ -87,7 +87,7 @@ Confusion Matrix:<br>
 18039   107<br>
  0          1794**
 
-## MTAD-GAT\
+## MTAD-GAT
 
 ## LSTM-Autoencoder
 
