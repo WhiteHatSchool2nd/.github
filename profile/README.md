@@ -91,11 +91,11 @@ Confusion Matrix:<br>
 
 #### 손실률, 학습률 그래프
 
-![[loss_21.png]]
+![](../loss_21.png)
 
 #### 성능 평가 그래프
 
-![[result_21.png]]
+![](../result_21.png)
 - HAI 21.03 데이터셋 2만개 사용
 ## MTAD-GAT
 
