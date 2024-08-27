@@ -97,6 +97,10 @@ Confusion Matrix:<br>
 
 ![](../result_21.png)
 - HAI 21.03 데이터셋 2만개 사용
+
+- **Accuracy Score: 0.983099297893681**
+- **F1 Score: 0.9856825030175624**
+- **Precision: 0.85**
 ## MTAD-GAT
 
 ## LSTM-Autoencoder
