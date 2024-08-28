@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7051e738efba04d1",
+        "id": "f1ad13fd739ccc43",
         "type": "tabs",
         "children": [
           {
-            "id": "415f4d4521a7b1d3",
+            "id": "1e2ad0970ed4d5ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a5f1bfb4f687449",
+  "active": "1e2ad0970ed4d5ee",
   "lastOpenFiles": [
+    "profile/hai_dataset_technical_details.pdf",
+    "result_22.png",
+    "profile/README.md",
+    "loss_22.png",
     "result_21.png",
     "loss_21.png",
     "result.png",
     "loss.png",
-    "profile/README.md",
-    "profile/hai_dataset_technical_details.pdf",
     "README.md"
   ]
 }

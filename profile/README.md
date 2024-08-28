@@ -101,6 +101,19 @@ Confusion Matrix:<br>
 - **Accuracy Score: 0.983099297893681**
 - **F1 Score: 0.9856825030175624**
 - **Precision: 0.85**
+
+### 22년도 데이터 셋
+
+#### 손실률, 학습률 그래프
+![](../loss_22.png)
+
+#### 성능 평가 그래프
+
+![](../result_22.png)
+
+
+
+
 ## MTAD-GAT
 
 ## LSTM-Autoencoder
