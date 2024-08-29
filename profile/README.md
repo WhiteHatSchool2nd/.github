@@ -110,9 +110,14 @@ Confusion Matrix:<br>
 #### 성능 평가 그래프
 
 ![](../result_22.png)
+### 23년도 데이터 셋
 
+#### 손실률, 학습률 그래프
 
+![](../loss_23.png)
+#### 성능 평가 그래프
 
+![](../result_23.png)
 
 ## MTAD-GAT
 
