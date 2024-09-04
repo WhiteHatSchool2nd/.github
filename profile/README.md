@@ -132,15 +132,32 @@ Confusion Matrix:<br>
 <img width="684" alt="스크린샷 2024-08-21 오전 10 05 52" src="https://github.com/user-attachments/assets/3f2bf412-174c-45b0-9ceb-756f98b9fdd5">
 
 
+## ResNet
+
+### 21년도 데이터 셋
+
+#### 손실률, 학습률 그래프
+
+![image](https://github.com/user-attachments/assets/de819617-0467-4d0e-bbf4-349544d1c6cc)
+
+
+#### 성능 평가 그래프
+
+![image](https://github.com/user-attachments/assets/41e9d6bc-d855-450e-b8be-906b1a77c8bf)
+
+- HAI 21.03 데이터셋 15만개 사용
+
+- **Accuracy Score: 0.983099297893681**
+- **F1 Score: 0.9856825030175624**
+- **Precision: 0.85**
+
 #### F1스코어
+- **F1 Score: 0.2745
+- **Precision:  0.8648
+- **Recall: 0.1634
+- **Accuracy: 0.9727
+- **Confusion Matrix:
+390057  298
+9703    1894
 
-**F1 Score: 0.6504668691641354<br>
-Precision: 0.95<br>
-Recall: 0.49<br>
-Accuracy: 0.98<br>
-Confusion Matrix:<br>
-8538    452<br>
-8939    0**
-
-## CNN-LSTM
 
