@@ -143,23 +143,25 @@ Confusion Matrix:<br>
 18318   39<br>
  635          959**
 
-### 20년도 데이터 셋
+### 21년도 데이터 셋
 
 #### 손실률, 학습률 그래프
+<img width="553" alt="스크린샷 2024-09-11 오전 11 07 38" src="https://github.com/user-attachments/assets/7e148a33-c68c-469c-aeae-f1fc7c53d190">
 
 
 #### 성능평가 그래프
+<img width="826" alt="스크린샷 2024-09-11 오전 11 07 40" src="https://github.com/user-attachments/assets/0738c2ef-b7dc-4bb6-8a43-baca6dfe6f95">
 
 
 #### F1스코어
 
-**F1 Score: 0.74<br>
-Precision: 0.96<br>
-Recall: 0.6<br>
+**F1 Score: 0.61<br>
+Precision: 0.47<br>
+Recall: 0.87<br>
 Accuracy: 0.97<br>
 Confusion Matrix:<br>
-18318   39<br>
- 635          959**
+18882   529<br>
+ 71          469**
 
 ## ResNet
 
