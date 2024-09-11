@@ -125,12 +125,41 @@ Confusion Matrix:<br>
 
 ## Autoencoder
 
+### 20년도 데이터 셋
+
 #### 손실률, 학습률 그래프
-<img width="558" alt="autoencoder_" src="https://github.com/user-attachments/assets/f61c97b0-2582-4647-9524-2fb9c68173e9">
+<img width="547" alt="스크린샷 2024-09-11 오전 10 23 54" src="https://github.com/user-attachments/assets/15f232a8-5704-411a-a248-68bfb9277e4d">
 
 #### 성능평가 그래프
-<img width="684" alt="스크린샷 2024-08-21 오전 10 05 52" src="https://github.com/user-attachments/assets/3f2bf412-174c-45b0-9ceb-756f98b9fdd5">
+<img width="824" alt="스크린샷 2024-09-11 오전 10 23 58" src="https://github.com/user-attachments/assets/b834d3a7-f30d-4a67-89a1-cbf31fbf56b7">
 
+#### F1스코어
+
+**F1 Score: 0.74<br>
+Precision: 0.96<br>
+Recall: 0.6<br>
+Accuracy: 0.97<br>
+Confusion Matrix:<br>
+18318   39<br>
+ 635          959**
+
+### 20년도 데이터 셋
+
+#### 손실률, 학습률 그래프
+
+
+#### 성능평가 그래프
+
+
+#### F1스코어
+
+**F1 Score: 0.74<br>
+Precision: 0.96<br>
+Recall: 0.6<br>
+Accuracy: 0.97<br>
+Confusion Matrix:<br>
+18318   39<br>
+ 635          959**
 
 ## ResNet
 
