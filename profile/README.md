@@ -163,6 +163,46 @@ Confusion Matrix:<br>
 18882   529<br>
  71          469**
 
+### 22년도 데이터 셋
+
+#### 손실률, 학습률 그래프
+
+
+
+#### 성능평가 그래프
+
+
+
+#### F1스코어
+
+**F1 Score: 0.61<br>
+Precision: 0.47<br>
+Recall: 0.87<br>
+Accuracy: 0.97<br>
+Confusion Matrix:<br>
+18882   529<br>
+ 71          469**
+
+
+### 23년도 데이터 셋
+
+#### 손실률, 학습률 그래프
+
+
+#### 성능평가 그래프
+
+
+
+#### F1스코어
+
+**F1 Score: 0.61<br>
+Precision: 0.47<br>
+Recall: 0.87<br>
+Accuracy: 0.97<br>
+Confusion Matrix:<br>
+18882   529<br>
+ 71          469**
+
 ## ResNet
 
 ### 21년도 데이터 셋
