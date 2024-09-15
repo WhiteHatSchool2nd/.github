@@ -135,9 +135,9 @@ Confusion Matrix:<br>
 
 #### F1스코어
 
-**F1 Score: 0.74<br>
-Precision: 0.96<br>
-Recall: 0.6<br>
+**F1 Score: 0.739969<br>
+Precision: 0.960922<br>
+Recall: 0.601631<br>
 Accuracy: 0.97<br>
 Confusion Matrix:<br>
 18318   39<br>
