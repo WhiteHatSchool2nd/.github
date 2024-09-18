@@ -192,7 +192,10 @@ Confusion Matrix:<br>
 ![image](https://github.com/user-attachments/assets/0155e1dc-d2ea-4cef-9b5e-d8d8a37a27eb)
 
 #### F1스코어
-
+- **F1 Score: 0.3503
+- **Precision:  0.5582
+- **Recall: 0.2552
+- **Accuracy: 0.9484
 
 ### 21년도 데이터 셋
 
@@ -208,12 +211,12 @@ Confusion Matrix:<br>
 - HAI 21.03 데이터셋 15만개 사용
 
 #### F1스코어
-- **F1 Score: 0.3503
-- **Precision:  0.5582
-- **Recall: 0.2552
-- **Accuracy: 0.9484
+- **F1 Score: 0.2747
+- **Precision:  0.8641
+- **Recall: 0.1633
+- **Accuracy: 0.9751
 - **Confusion Matrix:
-415317 4892 <br>
-18035 6180
+390057 298 <br>
+9703 1894
 
 
