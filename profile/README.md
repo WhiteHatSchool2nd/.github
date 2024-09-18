@@ -185,6 +185,15 @@ Confusion Matrix:<br>
 
 ## ResNet
 
+### 20년도 데이터 셋
+
+#### 성능 평가 그래프
+
+![image](https://github.com/user-attachments/assets/0155e1dc-d2ea-4cef-9b5e-d8d8a37a27eb)
+
+#### F1스코어
+
+
 ### 21년도 데이터 셋
 
 #### 손실률, 학습률 그래프
@@ -199,12 +208,12 @@ Confusion Matrix:<br>
 - HAI 21.03 데이터셋 15만개 사용
 
 #### F1스코어
-- **F1 Score: 0.2745
-- **Precision:  0.8648
-- **Recall: 0.1634
-- **Accuracy: 0.9727
+- **F1 Score: 0.3503
+- **Precision:  0.5582
+- **Recall: 0.2552
+- **Accuracy: 0.9484
 - **Confusion Matrix:
-390057  298<br>
-9703    1894**
+415317 4892 <br>
+18035 6180
 
 
